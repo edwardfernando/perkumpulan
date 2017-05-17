@@ -14,11 +14,16 @@ Dengan mempertimbangkan faktor profesionalitas & transparansi keuangan serta unt
 - biaya lainnya (transport, dsb)
 
 Oleh karena itu kami dari tim organizer memutuskan untuk melakukan fund-raising, dengan membuka keanggotaan badan hukum perkumpulan kita. Dengan ketentuan sebagai berikut:
-- Melakukan pendaftaran pada (link google drive)
-- Transfer iuran anggota baru ke (keterangan rekening) dengan mencantumkan nama lengkap pada bukti transfer sesuai yang didaftarkan pada google drive
+- Melakukan pendaftaran pada http://ruby.id/daftar
+- Transfer iuran anggota baru ke:
+  - 116-000-4376670
+  - a.n. GIOVANNI SAKTI NUGRAHA
+  - Bank Mandiri RS Harapan Kita
+  - Cantumkan nama lengkap pada bukti transfer sesuai yang didaftarkan pada google drive
+- Mengirimkan bukti transfer dan fotokopi KTP ke membership@ruby.id
 - Iuran anggota baru yang dimaksud adalah sejumlah 200.000, kemudian akan ada sumbangan per tahun sejumlah 120.000 / tahun
 - Iuran anggota baru sudah termasuk sumbangan per tahun, tahun pertama
-- Anggota baru akan mendapatkan kaos id-ruby
+- Anggota baru akan mendapatkan kaos id-ruby (estimasi pengiriman 3 bulan dari terbentuknya badan hukum)
 - Program-program khusus untuk anggota perkumpulan
 
 Nama badan hukum yang dibentuk adalah:  
@@ -27,7 +32,7 @@ en: *INDONESIA CODE CRAFTER SOCIETY*
 
 Penggunaan nama generik dimaksudkan agar badan hukum yang dibentuk lebih luwes dan dapat bekerjasama dengan komunitas lainnya.
 
-Apabila ada pertanyaan lebih lanjut bisa membaca F.A.Q terlebih dahulu yang saya sertakan atau menghubungi abc@abc.com atau abc@abc.com atau melalui slack id-ruby
+Apabila ada pertanyaan lebih lanjut bisa membaca F.A.Q terlebih dahulu yang saya sertakan atau menghubungi membership@ruby.id atau melalui slack id-ruby
 
 Terima kasih dan kami tunggu partisipasinya :)
 
@@ -49,11 +54,16 @@ Note: Pendaftaran akan tetap dibuka sepanjang tahun, namun hanya nama yang menda
     - Maka disimpulkan bahwa perkumpulan merupakan badan hukum non-profit, sehingga kita dapat lebih meyakinkan sponsor / donatur dalam memberikan sumbangan kepada acara kita dan juga meningkatkan kesempatan untuk berpartisipasi dalam program CSR perusahaan.
 
 - Bagaimana saya menjadi anggota?
-  - Melakukan pendaftaran pada (link google drive)
-  - Transfer iuran anggota baru ke (keterangan rekening) dengan mencantumkan nama lengkap pada bukti transfer sesuai yang didaftarkan pada google drive
+  - Melakukan pendaftaran pada http://ruby.id/daftar
+  - Transfer iuran anggota baru ke:
+    - 116-000-4376670
+    - a.n. GIOVANNI SAKTI NUGRAHA
+    - Bank Mandiri RS Harapan Kita
+    - Cantumkan nama lengkap pada bukti transfer sesuai yang didaftarkan pada google drive
+  - Mengirimkan bukti transfer dan fotokopi KTP ke membership@ruby.id
   - Iuran anggota baru yang dimaksud adalah sejumlah 200.000, kemudian akan ada sumbangan per tahun sejumlah 120.000 / tahun
   - Iuran anggota baru sudah termasuk sumbangan per tahun, tahun pertama
-  - Anggota baru akan mendapatkan kaos id-ruby
+  - Anggota baru akan mendapatkan kaos id-ruby (estimasi pengiriman 3 bulan dari terbentuknya badan hukum)
 
 - Apa keuntungan menjadi anggota?
   - Mendukung terlaksananya acara2 **dari dan untuk** programmer, khususnya pada titik ini untuk programmer ruby
