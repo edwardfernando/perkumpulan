@@ -21,7 +21,7 @@ Oleh karena itu kami dari tim organizer memutuskan untuk melakukan fund-raising,
   - Bank Mandiri RS Harapan Kita
   - Cantumkan nama lengkap pada bukti transfer sesuai yang didaftarkan pada google drive
 - Mengirimkan bukti transfer dan fotokopi KTP ke membership@ruby.id
-- Iuran anggota baru yang dimaksud adalah sejumlah 200.000, kemudian akan ada sumbangan per tahun sejumlah 120.000 / tahun
+- Iuran anggota baru yang dimaksud adalah sejumlah 220.000, kemudian akan ada sumbangan per tahun sejumlah 120.000 / tahun
 - Iuran anggota baru sudah termasuk sumbangan per tahun, tahun pertama
 - Anggota baru akan mendapatkan kaos id-ruby (estimasi pengiriman 3 bulan dari terbentuknya badan hukum)
 - Program-program khusus untuk anggota perkumpulan
@@ -36,7 +36,9 @@ Apabila ada pertanyaan lebih lanjut bisa membaca F.A.Q terlebih dahulu yang saya
 
 Terima kasih dan kami tunggu partisipasinya :)
 
-Note: Pendaftaran akan tetap dibuka sepanjang tahun, namun hanya nama yang mendaftar & mentransfer sebelum 24 Mei pk 23.59 yang akan dianggap sebagai anggota pendiri karena sudah harus dibawa ke notaris
+Note:
+- Pendaftaran akan tetap dibuka sepanjang tahun, namun hanya nama yang mendaftar & mentransfer sebelum 24 Mei pk 23.59 yang akan dianggap sebagai anggota pendiri karena sudah harus dibawa ke notaris
+- Apabila karena satu dan lain hal pembuatan perkumpulan tidak berhasil dilakukan, maka uang akan dikembalikan
 
 # F.A.Q
 
@@ -61,7 +63,7 @@ Note: Pendaftaran akan tetap dibuka sepanjang tahun, namun hanya nama yang menda
     - Bank Mandiri RS Harapan Kita
     - Cantumkan nama lengkap pada bukti transfer sesuai yang didaftarkan pada google drive
   - Mengirimkan bukti transfer dan fotokopi KTP ke membership@ruby.id
-  - Iuran anggota baru yang dimaksud adalah sejumlah 200.000, kemudian akan ada sumbangan per tahun sejumlah 120.000 / tahun
+  - Iuran anggota baru yang dimaksud adalah sejumlah 220.000, kemudian akan ada sumbangan per tahun sejumlah 120.000 / tahun
   - Iuran anggota baru sudah termasuk sumbangan per tahun, tahun pertama
   - Anggota baru akan mendapatkan kaos id-ruby (estimasi pengiriman 3 bulan dari terbentuknya badan hukum)
 
