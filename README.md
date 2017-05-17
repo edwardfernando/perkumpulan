@@ -6,7 +6,7 @@ Ada update nih dari tim organizer mengenai **Rubyconf 2017** dan Komunitas kita.
 
 Jadi sebagaimana sudah diumumkan pada meetup terakhir, pelaksanaan Rubyconf 2017 akan diundur ke bulan **Oktober 2017**. Hal ini dikarenakan dibutuhkan persiapan yang lebih matang dalam mempersiapkan acara internasional pertama kita. Kemudian, untuk memastikan Rubyconf berjalan dengan lancar, tentu butuh sumber daya yang tidak sedikit. Untungnya telah ada beberapa perusahaan yang bersedia untuk memberikan support kepada kita.
 
-Pada tahap ini muncul pertanyaan berikutnya: "Ke rekening mana dana dari sponsor akan di transfer?"
+Pada tahap ini muncul pertanyaan berikutnya: **Ke rekening mana dana dari sponsor akan di transfer?**
 
 Dengan mempertimbangkan faktor profesionalitas & transparansi keuangan serta untuk meyakinkan calon sponsor bahwa uang yang masuk semuanya demi kepentingan komunitas maka diputuskan untuk membentuk **badan hukum berjenis perkumpulan**. Untuk membuka badan hukum perkumpulan membutuhkan biaya, diasumsikan sekitar IDR 10 juta untuk keperluan sebagai berikut:
 - biaya notaris
@@ -21,9 +21,9 @@ Oleh karena itu kami dari tim organizer memutuskan untuk melakukan fund-raising,
 - Anggota baru akan mendapatkan kaos id-ruby
 - Program-program khusus untuk anggota perkumpulan
 
-Nama badan hukum yang dibentuk adalah:
-id: "PERKUMPULAN PENGRAJIN KODE INDONESIA (PERKODI)"
-en: "INDONESIA CODE CRAFTER SOCIETY"
+Nama badan hukum yang dibentuk adalah:  
+id: **PERKUMPULAN PENGRAJIN KODE INDONESIA (PERKODI)**  
+en: *INDONESIA CODE CRAFTER SOCIETY*
 
 Penggunaan nama generik dimaksudkan agar badan hukum yang dibentuk lebih luwes dan dapat bekerjasama dengan komunitas lainnya.
 
