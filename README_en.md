@@ -2,13 +2,13 @@
 
 Hi All,
 
-This is an update from the organizer team about ** Rubyconf 2017 ** and our Community.
+This is an update from the organizer team about **Rubyconf 2017** and our Community.
 
-So, as already announced during the last meetup, Rubyconf 2017 will be postponed to ** October 2017 **. This is because more time is needed to prepare for our first international event. Other than that, We also gonna need sizeable number of resources including manpower and funding. Fortunately there have been some companies that are willing to provide support for us.
+So, as already announced during the last meetup, Rubyconf 2017 will be postponed to **October 2017**. This is because more time is needed to prepare for our first international event. Other than that, We also gonna need sizeable number of resources including manpower and funding. Fortunately there have been some companies that are willing to provide support for us.
 
-At the current stage, then a question arises: ** Into which bank account funds from the sponsor will be transferred? **
+At the current stage, then a question arises: **Into which bank account funds from the sponsor will be transferred?**
 
-Taking into consideration: professionality, financial transparency and to convince prospective sponsors that all money that we receive will only be used for the benefit of the community, we then decided to establish ** a not-for-profit legal entity **.
+Taking into consideration: professionality, financial transparency and to convince prospective sponsors that all money that we receive will only be used for the benefit of the community, we then decided to establish **a not-for-profit legal entity**.
 
 To create a legal entity requires a fee and the fee is assumed to be around IDR 10 million. The fee will be used for the following purposes:
 - notary fees
@@ -71,6 +71,6 @@ Note:
   - Special programs for members of the association
 
 - What are the benefits of being a member?
-  - Supports creation of ** events from and for ** programmers, especially at this point for ruby ​​programmers
+  - Supports creation of **events from and for** programmers, especially at this point for ruby ​​programmers
   - The events in question include: meetup (hopefully not only in Jakarta), international conferences, workshops
   - Supports the creation of Rubyconf 2017, Ruby International Conference
