@@ -1,4 +1,4 @@
-English version can be found [here](../blob/master/README_en.md)
+English version can be found [here](../master/README_en.md)
 # Perkumpulan (Badan Hukum)
 
 Halo Teman2,
