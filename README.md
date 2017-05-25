@@ -38,7 +38,7 @@ Apabila ada pertanyaan lebih lanjut bisa membaca F.A.Q terlebih dahulu yang saya
 Terima kasih dan kami tunggu partisipasinya :)
 
 Note:
-- Pendaftaran akan tetap dibuka sepanjang tahun, namun hanya nama yang mendaftar & mentransfer sebelum 24 Mei pk 23.59 yang akan dianggap sebagai anggota pendiri karena sudah harus dibawa ke notaris
+- Pendaftaran akan tetap dibuka sepanjang tahun, namun hanya nama yang mendaftar & mentransfer sebelum 28 Mei pk 23.59 yang akan dianggap sebagai anggota pendiri karena sudah harus dibawa ke notaris
 - Apabila karena satu dan lain hal pembuatan perkumpulan tidak berhasil dilakukan, maka uang akan dikembalikan
 
 # F.A.Q
