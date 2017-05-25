@@ -40,7 +40,7 @@ If there are any further questions, you may read the F.A.Q, which I provided bel
 Thank You and we will be waiting for your participation :)
 
 Note:
-- Registration will remain open throughout the year, but only those who register & transfer before 24 May 23.59 pk will be considered as a founding member because we have to register to the notary ASAP
+- Registration will remain open throughout the year, but only those who register & transfer before 28 May 23.59 pk will be considered as a founding member because we have to register to the notary ASAP
 - If for one reason or another the association is failed to be established, the money will be refunded
 
 # F.A.Q
