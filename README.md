@@ -1,4 +1,5 @@
 *English version can be found [here](../master/README_en.md)*
+*Update 2017-07-27: Rekening bank saat ini sudah terbentuk, dokumen ini sudah menggunakan rekening terbaru*
 # Perkumpulan (Badan Hukum)
 
 Halo Teman2,
@@ -17,9 +18,9 @@ Dengan mempertimbangkan faktor profesionalitas & transparansi keuangan serta unt
 Oleh karena itu kami dari tim organizer memutuskan untuk melakukan fund-raising, dengan membuka keanggotaan badan hukum perkumpulan kita. Dengan ketentuan sebagai berikut:
 - Melakukan pendaftaran pada http://ruby.id/daftar
 - Transfer iuran anggota baru ke:
-  - 116-000-4376670
-  - a.n. GIOVANNI SAKTI NUGRAHA
-  - Bank Mandiri RS Harapan Kita
+  - 124-00-0787116-4
+  - PERKUMPULAN PENGRAJIN KODE INDONESIA
+  - BANK MANDIRI (SWIFT CODE: BMRIIDJA)
   - Cantumkan nama lengkap pada bukti transfer sesuai yang didaftarkan pada google drive
 - Mengirimkan bukti transfer dan fotokopi KTP ke membership@ruby.id
 - Iuran anggota baru yang dimaksud adalah sejumlah 220.000, kemudian akan ada sumbangan per tahun sejumlah 120.000 / tahun
@@ -59,9 +60,9 @@ Note:
 - Bagaimana saya menjadi anggota?
   - Melakukan pendaftaran pada http://ruby.id/daftar
   - Transfer iuran anggota baru ke:
-    - 116-000-4376670
-    - a.n. GIOVANNI SAKTI NUGRAHA
-    - Bank Mandiri RS Harapan Kita
+    - 124-00-0787116-4
+    - PERKUMPULAN PENGRAJIN KODE INDONESIA
+    - BANK MANDIRI (SWIFT CODE: BMRIIDJA)
     - Cantumkan nama lengkap pada bukti transfer sesuai yang didaftarkan pada google drive
   - Mengirimkan bukti transfer dan fotokopi KTP ke membership@ruby.id
   - Iuran anggota baru yang dimaksud adalah sejumlah 220.000, kemudian akan ada sumbangan per tahun sejumlah 120.000 / tahun

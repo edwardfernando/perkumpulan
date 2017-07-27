@@ -1,4 +1,5 @@
 *Versi Bahasa Indonesia dapat dilihat [di sini](../master/README.md)*
+*Update 2017-07-27: The official bank account has been created, this document already use the new bank account*
 # Association (Legal Entity)
 
 Hi All,
@@ -19,9 +20,9 @@ To create a legal entity requires a fee and the fee is assumed to be around IDR 
 Therefore, we from the organizer team decided to do a fund-raising by opening the membership for the legal entity of our association. The steps to become an official member is as follow:
 - Register at http://ruby.id/daftar
 - Transfer new member fee to:
-  - 116-000-4376670
-  - a.n. GIOVANNI SAKTI NUGRAHA
-  - Bank Mandiri RS Harapan Kita
+  - 124-00-0787116-4
+  - PERKUMPULAN PENGRAJIN KODE INDONESIA
+  - BANK MANDIRI (SWIFT CODE: BMRIIDJA)
   - Write down your full name on the transfer receipt
 - Send transfer receipt and photocopy of your ID card to membership@ruby.id
 - The new member fee amounted to 220,000, then there will be annual donation of 120,000 / year
@@ -61,9 +62,9 @@ Note:
 - How do I become a member?
   - Register at http://ruby.id/daftar
   - Transfer new member fee to:
-    - 116-000-4376670
-    - a.n. GIOVANNI SAKTI NUGRAHA
-    - Bank Mandiri RS Harapan Kita
+    - 124-00-0787116-4
+    - PERKUMPULAN PENGRAJIN KODE INDONESIA
+    - BANK MANDIRI (SWIFT CODE: BMRIIDJA)
     - Write down your full name on the transfer receipt
   - Send transfer receipt and photocopy of your ID card to membership@ruby.id
   - The new member fee amounted to 220,000, then there will be annual donation of 120,000 / year
