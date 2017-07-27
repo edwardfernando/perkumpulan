@@ -1,4 +1,4 @@
-*Versi Bahasa Indonesia dapat dilihat [di sini](../master/README.md)*
+*Versi Bahasa Indonesia dapat dilihat [di sini](../master/README.md)*  
 *Update 2017-07-27: The official bank account has been created, this document already use the new bank account*
 # Association (Legal Entity)
 

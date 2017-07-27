@@ -1,4 +1,4 @@
-*English version can be found [here](../master/README_en.md)*
+*English version can be found [here](../master/README_en.md)*  
 *Update 2017-07-27: Rekening bank saat ini sudah terbentuk, dokumen ini sudah menggunakan rekening terbaru*
 # Perkumpulan (Badan Hukum)
 
