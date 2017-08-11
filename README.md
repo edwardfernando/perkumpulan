@@ -70,7 +70,7 @@ Note:
   - Anggota baru akan mendapatkan kaos id-ruby (estimasi pengiriman 3 bulan dari terbentuknya badan hukum)
 
 - Apa keuntungan menjadi anggota?
-  - Mendukung terlaksananya acara2 **dari dan untuk** programmer, khususnya pada titik ini untuk programmer ruby
+  - Mendukung terlaksananya acara-acara **dari dan untuk** programmer, khususnya pada titik ini untuk programmer ruby
   - Acara yang dimaksud diantaranya: meetup (harapannya bukan hanya di Jakarta), konferensi internasional, workshop
   - Mendukung terlaksananya Rubyconf 2017, Konferensi Internasional Ruby pertama di Indonesia
   - Program-program yang akan disusun untuk anggota
